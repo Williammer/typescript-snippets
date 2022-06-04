@@ -1,3 +1,5 @@
-# typescript-n9fjuk
+# typescript-snippets
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-n9fjuk)
+Practical snippets for using typescript in typical use cases.
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-snippets)
