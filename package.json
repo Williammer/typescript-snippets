@@ -2,5 +2,7 @@
   "name": "typescript",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
 }

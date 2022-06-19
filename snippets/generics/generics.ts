@@ -13,6 +13,6 @@ const eTarget = 'exception';
 const dTarget: DasTarget = 'numeric';
 
 const mPlugin = getTargetPlugin(mTarget);
-// -----
+// -----------------------------------------------------------------------------
 
 // #2
